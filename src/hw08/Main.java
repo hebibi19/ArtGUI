@@ -12,7 +12,7 @@ import javafx.stage.Stage;
  * 
  * A total of 6 album panes are used (TXT, NCTU, MonstaX, AKMU, TWICE, TXT2)
  * 
- * @author Jacqueline Molina, 400920686, Cs20212 Sections 1 & 2
+ * @author Jacqueline Molina
  *
  */
 public class Main extends Application {
