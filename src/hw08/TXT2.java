@@ -12,7 +12,7 @@ import javafx.scene.text.Text;
  * In order to create an instance of this class, use
  * 		TXT2 ___ = new TXT2();
  * 
- * @author Jacqueline Molina, 400920686, Cs20212 Sections 1 & 2
+ * @author Jacqueline Molina
  *
  */
 public class TXT2 extends Pane {
