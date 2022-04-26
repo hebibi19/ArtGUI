@@ -15,7 +15,7 @@ import javafx.scene.text.Text;
  * In order to create an instance of this class, use
  * 		TWICE ___ = new TWICE();
  * 
- * @author Jacqueline Molina, 400920686, CS20212 Sections 1 & 2
+ * @author Jacqueline Molina
  *
  */
 public class TWICE extends Pane {
