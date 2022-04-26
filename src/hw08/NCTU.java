@@ -13,7 +13,7 @@ import javafx.scene.shape.Rectangle;
  * In order to create an instance of this class, use
  * 		NCTU ___ = new NCTU();
  * 
- * @author Jacqueline Molina, 400920686, CS20212 Sections 1 & 2
+ * @author Jacqueline Molina
  *
  */
 public class NCTU extends Pane {
