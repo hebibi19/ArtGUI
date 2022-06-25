@@ -5,6 +5,6 @@ a spread of album cover art drawn utilizing JavaFX
 
 
 ## Built Using
-- Eclispse
+- Eclipse
 - Java
 - JavaFX library
